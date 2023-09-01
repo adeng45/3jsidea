@@ -24,3 +24,5 @@ function changeactive() {
     icon.classList.remove('active-nav');
   });
 }
+
+toggle.classList.toggle('active');

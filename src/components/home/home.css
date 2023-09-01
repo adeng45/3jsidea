@@ -61,7 +61,7 @@
 }
 
 .home-container .logo .hover-show.active .circle:nth-child(1) {
-  background: url(../props/html.png);
+  background: url(../props/html2.png);
   background-size: cover;
   background-position: center;
   position: absolute;
@@ -77,14 +77,14 @@
 .home-container .logo .hover-show.active .circle:nth-child(3) {
   position: absolute;
   transform: translateX(210%);
-  background: url(../props/js.jpg);
+  background: url(../props/js.png);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(4) {
   position: absolute;
   transform: translateX(150%) translateY(150%);
-  background: url(../props/python.jpg);
+  background: url(../props/python.png);
   background-size: cover;
   background-position: center;
 }
@@ -98,21 +98,21 @@
 .home-container .logo .hover-show.active .circle:nth-child(6) {
   position: absolute;
   transform: translateX(-150%) translateY(150%);
-  background: url(../props/sql.jpg);
+  background: url(../props/sql.png);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(7) {
   position: absolute;
   transform: translateX(-210%);
-  background: url(../props/c.jpg);
+  background: url(../props/c.png);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(8) {
   position: absolute;
   transform: translateX(-150%) translateY(-150%);
-  background: url(../props/node.jpg);
+  background: url(../props/node.png);
   background-size: cover;
   background-position: center;
 }

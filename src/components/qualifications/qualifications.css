@@ -1,6 +1,7 @@
 .quali-text {
   font-size: 20px;
   top: 10px;
+  padding-bottom: 10px;
 }
 
 .qualifications-container {
@@ -8,12 +9,10 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  height: 80%;
   width: 90%;
   overflow-x: scroll;
   overflow-y: hidden;
   margin-top: 15px;
-  user-select: none;
 }
 
 .qualifications-container .qualification {
@@ -46,49 +45,50 @@
 }
 
 .qualifications-container .qualification .content.html {
-  background: rgba(255, 255, 255, 0.103) url(../props/html2.jpg); 
+  background: #100e33 url(../props/html2.png); 
   background-position: center;
-  background-size: 300px;
+  background-size: 200px;
 }
 .qualifications-container .qualification .content.css {
-  background: rgba(255, 255, 255, 0.103) url(../props/css.png);
+  background: #100e33 url(../props/css2.png);
   background-position: center;
-  background-size: 300px;
+  background-size: 200px;
 }
 .qualifications-container .qualification .content.javascript {
-  background: rgba(255, 255, 255, 0.103) url(../props/js.jpg);
+  background: #100e33 url(../props/js2.png);
   background-position: center;
   background-size: cover;
+  background-size: 600px;
 }
 .qualifications-container .qualification .content.python {
-  background: rgba(255, 255, 255, 0.103) url(../props/python.jpg);
+  background: #100e33 url(../props/python2.png);
   background-position: center;
   background-size: cover;
-  background-size: 300px;
+  background-size: 170px;
 }
 .qualifications-container .qualification .content.react {
-  background: rgba(255, 255, 255, 0.103) url(../props/react.png);
+  background: #100e33 url(../props/react2.png);
   background-position: center;
   background-size: cover;
-  background-size: 300px;
+  background-size: 370px;
 }
 .qualifications-container .qualification .content.c {
-  background: rgba(255, 255, 255, 0.103) url(../props/c.jpg);
+  background: #100e33 url(../props/c2.png);
   background-position: center;
   background-size: cover;
-  background-size: 300px;
+  background-size: 170px;
 }
 .qualifications-container .qualification .content.sql {
-  background: rgba(255, 255, 255, 0.103) url(../props/sql.jpg);
+  background: #100e33 url(../props/sql2.png);
   background-position: center;
   background-size: cover;
   background-size: 300px;
 }
 .qualifications-container .qualification .content.node {
-  background: rgba(255, 255, 255, 0.103) url(../props/node.jpg);
+  background: #100e33 url(../props/node2.png);
   background-position: center;
   background-size: cover;
-  background-size: 66px;
+  background-size: 170px;
 }
 
 @media (max-width: 820px) {

@@ -2,7 +2,7 @@ import "./qualifications.css";
 
 const Qualifications = () => {
   return (
-    <div>
+    <div class="quali-section-container">
       <span className="quali-text">My Qualifications</span>
       <div className="qualifications-container">
         <div className="qualification">
