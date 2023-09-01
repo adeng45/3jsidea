@@ -16,6 +16,9 @@ function WebContent() {
       <Navbar />
       <Home />
       <About />
+      <Members />
+      <Contact />
+      <Footer />
     </>
   );
 }

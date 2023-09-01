@@ -27,6 +27,7 @@
   font-weight: 900;
   letter-spacing: 2px;
   font-family: Poppins;
+  padding-bottom: 10px;
 }
 
 .header-container h3 p {
@@ -44,4 +45,8 @@
   color: var(--color-pri);
   font-family: "Open Sans";
   letter-spacing: 1px;
+}
+
+.header-container h2 span {
+  color: white;
 }
