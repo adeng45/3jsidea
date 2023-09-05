@@ -95,21 +95,22 @@
   background-size: cover;
   background-position: center;
 }
-.home-container .logo .hover-show.active .circle:nth-child(6) {
+.home-container .logo .hover-show.active .circle:nth-child(8) {
   position: absolute;
   transform: translateX(-150%) translateY(150%);
-  background: url(../props/sql.png);
+  background: url(../props/sql2.png);
   background-size: cover;
   background-position: center;
+  background-color: #100e33;
 }
-.home-container .logo .hover-show.active .circle:nth-child(7) {
+.home-container .logo .hover-show.active .circle:nth-child(6) {
   position: absolute;
   transform: translateX(-210%);
   background: url(../props/c.png);
   background-size: cover;
   background-position: center;
 }
-.home-container .logo .hover-show.active .circle:nth-child(8) {
+.home-container .logo .hover-show.active .circle:nth-child(7) {
   position: absolute;
   transform: translateX(-150%) translateY(-150%);
   background: url(../props/node.png);
