@@ -2,7 +2,7 @@ import "./footer.css";
 import { BsMouse } from "react-icons/bs";
 import { BsInstagram } from "react-icons/bs";
 import { FaFacebookF } from "react-icons/fa";
-import { TiSocialDribbble } from "react-icons/ti";
+import { TiSocialDribbble, TiSocialTwitter } from "react-icons/ti";
 import { TiSocialYoutube } from "react-icons/ti";
 import { TiSocialGithub } from "react-icons/ti";
 
@@ -27,16 +27,13 @@ function Footer() {
         </a>
         <a>
           {" "}
-          <TiSocialDribbble className="social" />
+          <TiSocialTwitter className="social" />
         </a>
 
         <a>
           <TiSocialYoutube className="social" />
         </a>
-
-        <a>
-          <TiSocialGithub className="social" />
-        </a>
+        
       </div>
     </div>
   );

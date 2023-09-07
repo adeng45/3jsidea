@@ -22,7 +22,7 @@ function Contact() {
         >
           <AiOutlineWhatsApp className="icon" />
           <h2>
-            phone <span>+1 234 567 8900</span>
+            phone <span>+0 000 000 0000</span>
           </h2>
         </a>
 
